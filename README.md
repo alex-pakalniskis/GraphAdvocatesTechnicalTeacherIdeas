@@ -1,1 +1,2 @@
-# GraphAdvocatesWorkshopIdeas
+# GraphAdvocatesTechnicalTeacherIdeas
+See Issues
